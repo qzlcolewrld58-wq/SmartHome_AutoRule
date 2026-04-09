@@ -1,0 +1,18 @@
+Batch Analysis Report
+
+总样本数: 5000
+规则完整率: 100.00%
+修复前校验通过率: 70.40%
+修复后校验通过率: 100.00%
+端到端可执行率: 100.00%
+自动修复增益: 29.60%
+
+按 category 统计:
+- ambiguous: completeness=100.00%, pre=100.00%, post=100.00%, gain=0.00%, exec=100.00%
+- error_conflict: completeness=100.00%, pre=1.33%, post=100.00%, gain=98.67%, exec=100.00%
+- normal: completeness=100.00%, pre=100.00%, post=100.00%, gain=0.00%, exec=100.00%
+
+按 difficulty 统计:
+- easy: completeness=100.00%, pre=100.00%, post=100.00%, gain=0.00%, exec=100.00%
+- hard: completeness=100.00%, pre=1.33%, post=100.00%, gain=98.67%, exec=100.00%
+- medium: completeness=100.00%, pre=100.00%, post=100.00%, gain=0.00%, exec=100.00%

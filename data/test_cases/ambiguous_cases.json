@@ -1,0 +1,7502 @@
+[
+  {
+    "input_text": "晚上回家时把灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "早上帮我把窗帘拉开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "太热了就开空调",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗澡前把热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "出门后记得关灯",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑后开玄关灯",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡觉前把卧室灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "周末早上打开窗帘",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "有人来时玄关亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "空气潮的时候开热水器",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "夜里把客厅灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "傍晚的时候开客厅灯",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回卧室前先开空调",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "早起时打开卧室窗帘",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "离开卫生间后别忘了关热水器",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上热了就把卧室空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时开灯",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅闷的时候开空调",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太亮时把窗帘拉上",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "白天别开灯",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "周一到周五早上把窗帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗漱完关掉热水器",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚饭后开客厅灯",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "半夜别让卧室灯亮着",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "进门的时候亮玄关灯",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上睡前关客厅窗帘",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "早晨让卧室亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天气热的时候开客厅空调",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "周末晚上客厅灯别太亮",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "人走了把玄关那边都关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把主灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅台灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅吸顶灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅壁灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把灯带开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅落地灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把书桌灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅镜前灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅柜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅夜灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把左床头灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅右床头灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把主灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅台灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅吸顶灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅壁灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把灯带开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅落地灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把书桌灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅镜前灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把空气净化器电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅热水壶关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把咖啡机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅电饭煲关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅烘干机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅洗衣机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅窗帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅遮阳帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把电视开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅音箱关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把投影仪开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅电视关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅加湿器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅除湿机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把观影模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把离家模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅晚餐模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅夜间关闭脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把离家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅回家脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅睡前准备脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅厨房清理脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧电饭煲亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把烘干机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧洗衣机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧窗帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧遮阳帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把吊扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧落地风扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧电视打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧音箱亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把加湿器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧加湿器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把除湿机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧观影模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧睡眠模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧离家模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把阅读模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧晚餐模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把晨间脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧夜间关闭脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧离家脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧回家脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把睡前准备脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧吸顶灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧壁灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧灯带亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把落地灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧书桌灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把镜前灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧柜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧夜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧左床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把右床头灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧热水器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧插座打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧空气净化器电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把热水壶开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧咖啡机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把电饭煲开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧空调关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧温控器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧窗帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧遮阳帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把吊扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧落地风扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧电视打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧加湿器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把观影模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把离家模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧晨间脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧夜间关闭脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧离家脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室电饭煲关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室窗帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室百叶帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把遮阳帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室吊扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把落地风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室电视关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室加湿器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把睡眠模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室离家模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把晨间脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室夜间关闭脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室离家脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把空调开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房温控器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房百叶帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房遮阳帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房吊扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把落地风扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房电视关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把加湿器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房观影模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房睡眠模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房离家模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房夜间关闭脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把离家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房主灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房台灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房吸顶灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把壁灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房灯带关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把落地灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房书桌灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房镜前灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房柜灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把夜灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房左床头灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把右床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房主灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房台灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房咖啡机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房电饭煲打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房烘干机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把洗衣机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房空调关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把温控器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房窗帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房遮阳帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把电视开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房音箱关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房加湿器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把睡眠模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房离家模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把阅读模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房晨间脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房夜间关闭脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房离家脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把回家脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把厨房主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把厨房吸顶灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房壁灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让厨房灯带亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把落地灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把厨房书桌灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把镜前灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把厨房柜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房夜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让厨房左床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把右床头灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把厨房主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把厨房吸顶灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房壁灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让厨房热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把厨房空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把厨房咖啡机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房电饭煲打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让厨房烘干机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把洗衣机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把厨房热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把厨房空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让厨房咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把厨房烘干机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把厨房吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让厨房排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把警报器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把厨房观影模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把睡眠模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把厨房晨间脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房夜间关闭脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让厨房离家脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把回家脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅吸顶灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅壁灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅灯带亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把落地灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅书桌灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把镜前灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅柜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅夜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅左床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把右床头灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅空调关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅电视亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把音箱开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅观影模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把睡眠模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅离家模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅阅读模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅晨间脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把夜间关闭脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅离家脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把主灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间台灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间吸顶灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间壁灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把灯带开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间落地灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把书桌灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间镜前灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间柜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间夜灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间电饭煲亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间除湿机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间除湿机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫吸顶灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫壁灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫灯带亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把落地灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫书桌灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把镜前灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫柜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫夜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫咖啡机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫电饭煲打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫吊扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把落地风扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫排风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把除湿机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫除湿机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫晨间脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫吊扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把落地风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫除湿机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫晨间脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把空气净化器电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台热水壶关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台百叶帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台遮阳帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台吊扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把观影模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台晨间脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把主灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关台灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关吸顶灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关壁灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把灯带开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关落地灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把书桌灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关镜前灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关柜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关夜灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把左床头灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关右床头灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关门锁关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把智能门锁开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关车库门锁关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关警报器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关警报器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把观影模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把离家模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关晨间脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关夜间关闭脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关离家脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把回家脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊吸顶灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊壁灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊灯带亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把落地灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊书桌灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把镜前灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊柜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊夜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把扫地机器人开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊警报器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊晨间脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把储物间壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把储物间灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让储物间落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把储物间插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把储物间空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让储物间热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把除湿机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间主灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把台灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间吸顶灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间壁灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让衣帽间灯带亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把落地灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间书桌灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把镜前灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间柜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间夜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让衣帽间热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间观影模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间晨间脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把洗衣房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把洗衣房热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房烘干机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把洗衣房落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房除湿机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房有动静时把除湿机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房观影模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "洗衣房太热了就把晨间脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房夜间关闭脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库主灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库台灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把灯带开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库落地灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把柜灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库夜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把门锁开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库智能门锁关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把警报器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库警报器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库晨间脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室电饭煲亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室除湿机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把除湿机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室警报器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室睡眠模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室夜间关闭脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把主灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园台灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园吸顶灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园壁灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把灯带开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园落地灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把书桌灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园镜前灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园柜灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园夜灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园窗帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园百叶帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把电视开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园警报器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把警报器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园观影模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园睡眠模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园晨间脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把夜间关闭脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间烘干机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库电饭煲关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把烘干机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园洗衣机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧遮阳帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫夜间关闭脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把灯带开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊落地灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把储物间书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让衣帽间镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把烘干机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室洗衣机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间热水器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫插座打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫空气净化器电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室离家模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把回家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关热水器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊插座打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让储物间空气净化器电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把热水壶开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房睡前准备脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把空气净化器电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园热水壶关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把咖啡机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧窗帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅温控器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把晚餐模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫厨房清理脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把柜灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊夜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房电饭煲关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把热水壶开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间咖啡机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把电饭煲开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫烘干机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台遮阳帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把夜间关闭脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关咖啡机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把电饭煲开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把储物间烘干机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间洗衣机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把空调开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把离家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库电饭煲关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室烘干机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园洗衣机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧百叶帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅温控器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把离家模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫回家脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关主灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊台灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把烘干机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室洗衣机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅洗衣机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室晚餐模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园厨房清理脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧遮阳帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫夜间关闭脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把灯带开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊落地灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把储物间书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让衣帽间镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把空气净化器电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室热水壶关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把咖啡机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房电饭煲关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间咖啡机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫电饭煲打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫烘干机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室离家模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把回家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关咖啡机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊电饭煲打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让储物间烘干机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把洗衣机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房睡前准备脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库电饭煲亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把烘干机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园洗衣机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧窗帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅温控器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把晚餐模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫厨房清理脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把柜灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊夜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧烘干机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室洗衣机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把洗衣机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台遮阳帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把夜间关闭脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把储物间空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把空调开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把离家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧百叶帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅温控器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把离家模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫回家脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关主灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊台灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房电饭煲亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫烘干机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室晚餐模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园厨房清理脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间烘干机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库电饭煲关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把烘干机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园洗衣机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧遮阳帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫夜间关闭脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把灯带开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊落地灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把储物间书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让衣帽间镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把烘干机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室洗衣机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间热水器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫插座打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫空气净化器电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室离家模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把回家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关热水器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊插座打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让储物间空气净化器电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把热水壶开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房睡前准备脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把空气净化器电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园热水壶关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把咖啡机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧窗帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅温控器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把晚餐模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫厨房清理脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把柜灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊夜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房电饭煲关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把热水壶开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间咖啡机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把电饭煲开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫烘干机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台遮阳帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把夜间关闭脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关咖啡机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把电饭煲开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把储物间烘干机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间洗衣机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把空调开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把离家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库电饭煲关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室烘干机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园洗衣机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧百叶帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅温控器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把离家模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫回家脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关主灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊台灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把烘干机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室洗衣机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅洗衣机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室晚餐模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园厨房清理脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧遮阳帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫夜间关闭脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把灯带开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊落地灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把储物间书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让衣帽间镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把空气净化器电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室热水壶关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把咖啡机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房电饭煲关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间咖啡机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫电饭煲打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫烘干机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室离家模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把回家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关咖啡机关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊电饭煲打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让储物间烘干机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把洗衣机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房睡前准备脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库电饭煲亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把烘干机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园洗衣机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧窗帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅温控器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把晚餐模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫厨房清理脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把柜灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊夜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧烘干机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室洗衣机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把洗衣机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台遮阳帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把夜间关闭脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关热水器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把插座开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把储物间空气净化器电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把空调开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把离家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧百叶帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅温控器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把离家模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫回家脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关主灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊台灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房电饭煲亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅热水壶打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫烘干机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室晚餐模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园厨房清理脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关咖啡机亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把电饭煲开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间烘干机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库电饭煲关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把烘干机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园洗衣机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧遮阳帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅温控器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间观影模式打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫夜间关闭脚本亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把阳台壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关太热了就把灯带开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊落地灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把储物间书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让衣帽间镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把烘干机电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室洗衣机电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把热水器开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房插座关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把洗衣房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把车库落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把洗衣机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间热水器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫插座打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卫空气净化器电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台有动静时把百叶帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室离家模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把回家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卧落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让次卧书桌灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把儿童房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把玄关热水器关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把走廊插座打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让储物间空气净化器电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把热水壶开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把空调开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房睡前准备脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅镜前灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把柜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让车库插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室有动静时把空气净化器电源开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把花园热水壶关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅太热了就把咖啡机开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卧窗帘关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧百叶帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把吊扇开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把餐厅温控器关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间太热了就把晚餐模式开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把主卫厨房清理脚本关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卫书桌灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让阳台镜前灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "玄关有动静时把柜灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把走廊夜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把衣帽间右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空气净化器电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室热水壶亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把咖啡机开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房电饭煲关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卫生间吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把主卫落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间有动静时把镜前灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把洗衣房柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把热水壶开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间咖啡机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把电饭煲开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卫烘干机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把阳台遮阳帘打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室观影模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园有动静时把夜间关闭脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把客厅柜灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧太热了就把夜灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把次卧左床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卧室右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让儿童房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "书房有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把玄关咖啡机关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊太热了就把电饭煲开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把储物间烘干机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间洗衣机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让地下室排风扇亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把空调开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室睡眠模式关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房太热了就把离家脚本开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把书房夜灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把厨房左床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅右床头灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把主灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把车库电饭煲关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把地下室烘干机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让花园洗衣机电源亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "客厅有动静时把热水器开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卧百叶帘关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把遮阳帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房落地风扇打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让餐厅温控器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卫生间有动静时把离家模式开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把主卫回家脚本关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫太热了就把左床头灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把阳台右床头灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把玄关主灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让走廊台灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "储物间有动静时把吸顶灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把衣帽间壁灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧太热了就把烘干机电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把卧室洗衣机电源关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把儿童房热水器打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让书房插座亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "餐厅有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卫生间落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫太热了就把排风扇开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把走廊阅读模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把衣帽间右床头灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让洗衣房主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "车库有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把地下室吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "花园太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把客厅灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把餐厅洗衣机电源打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卫生间热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卫有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卫空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "阳台太热了就把窗帘开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室晚餐模式关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把花园厨房清理脚本打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让客厅主灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "主卧有动静时把台灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把次卧吸顶灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "卧室太热了就把壁灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把儿童房灯带关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把书房落地灯打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让玄关热水器亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "走廊有动静时把插座开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把储物间空气净化器电源关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "衣帽间太热了就把热水壶开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把地下室吊扇关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把次卧空调打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让卧室放松模式亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "儿童房有动静时把晨间脚本开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把书房台灯关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "厨房太热了就把吸顶灯开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把餐厅壁灯关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把卫生间灯带打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卫落地灯亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卫有动静时把书桌灯开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把车库插座关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "地下室太热了就把空气净化器电源开起来",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "晚上帮我把花园热水壶关掉",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "回家后把客厅咖啡机打开",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "天黑以后让主卧遮阳帘亮一点",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "次卧有动静时把窗帘开一下",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  },
+  {
+    "input_text": "睡前把卧室落地风扇关了",
+    "category": "ambiguous",
+    "expected_difficulty": "medium"
+  }
+]

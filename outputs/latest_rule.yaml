@@ -1,0 +1,13 @@
+automation:
+- alias: 规则_如果客厅温度高于30度，
+  trigger:
+  - platform: numeric_state
+    entity_id: sensor.living_room_temperature
+    above: 30.0
+  condition: []
+  action:
+  - service: homeassistant.turn_on
+    target:
+      entity_id: climate.living_room_ac
+    data: {}
+  mode: single

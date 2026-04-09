@@ -1,0 +1,7502 @@
+[
+  {
+    "input_text": "每天早上7点打开厨房灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "把客厅电视打开",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "卫生间有人时打开卫生间传感器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "玄关没人时又开灯又关灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "把卧室风扇打开",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "晚上打开阳台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "客厅窗帘打开并立刻关闭",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "把玄关门锁打开",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天早上七点打开客厅温度传感器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "卧室湿度高时打开卧室除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "如果厨房有人就开厨房灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天早上打开客厅和厨房所有灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "把热水器调到四十度并关闭",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "凌晨三十点关闭卧室主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周末周九打开客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "玄关有人时打开light.entryway",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "打开不存在的设备",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "客厅太热时关闭并打开客厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "把卧室窗帘升高",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天早上七点打开车库灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "卫生间湿度高时关闭并打开热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "早上六点打开主卧灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "离开玄关后打开传感器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "把客厅灯切到阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "晚上十点把玄关香薰和电视都关掉",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周一周二周八打开卧室窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天8点把未知灯打开",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "有人时同时关闭和打开客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅投影仪",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅投影仪",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅投影仪",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅晚餐模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅晚餐模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅晚餐模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅放松模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅放松模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅放松模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅睡前准备脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅睡前准备脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅睡前准备脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开客厅厨房清理脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭客厅厨房清理脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭客厅厨房清理脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧晚餐模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧晚餐模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧晚餐模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卧睡前准备脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卧睡前准备脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卧睡前准备脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卧离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卧离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卧离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卧室离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卧室离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卧室离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开儿童房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭儿童房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭儿童房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房温控器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房加湿器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开书房回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭书房回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭书房回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房烘干机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房洗衣机电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开厨房回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭厨房回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭厨房回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅空调",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅电视",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅音箱",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅阅读模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开餐厅离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭餐厅离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭餐厅离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开卫生间晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭卫生间晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭卫生间晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫电饭煲",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫排风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开主卫晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭主卫晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭主卫晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫落地风扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开次卫晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭次卫晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭次卫晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台百叶帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台遮阳帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台吊扇",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开阳台晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭阳台晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭阳台晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关左床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关右床头灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关咖啡机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关智能门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关智能门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关智能门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关车库门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关车库门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关车库门锁",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关睡眠模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关离家模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关夜间关闭脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关离家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开玄关回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭玄关回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭玄关回家脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊扫地机器人",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊扫地机器人",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊扫地机器人",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊警报器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开走廊晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭走廊晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭走廊晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间热水壶",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开储物间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭储物间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭储物间除湿机",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间镜前灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间柜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间夜灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间热水器",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间插座",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间空气净化器电源",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间窗帘",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间观影模式",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开衣帽间晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭衣帽间晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭衣帽间晨间脚本",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开洗衣房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭洗衣房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭洗衣房主灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开洗衣房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭洗衣房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭洗衣房台灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开洗衣房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭洗衣房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭洗衣房吸顶灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开洗衣房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭洗衣房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭洗衣房壁灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开洗衣房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭洗衣房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭洗衣房灯带",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开洗衣房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭洗衣房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭洗衣房落地灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "每天25点打开洗衣房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "周八晚上关闭洗衣房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  },
+  {
+    "input_text": "同时打开和关闭洗衣房书桌灯",
+    "category": "error_conflict",
+    "expected_difficulty": "hard"
+  }
+]

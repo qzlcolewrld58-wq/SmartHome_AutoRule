@@ -1,0 +1,188 @@
+[
+  {
+    "input_text": "每天7点打开客厅窗帘",
+    "gold_dsl": {
+      "rule_name": "living_room_time_rule",
+      "trigger": {
+        "type": "time",
+        "at": "07:00:00"
+      },
+      "conditions": [],
+      "actions": [
+        {
+          "service": "cover.open_cover",
+          "entity": "cover.living_room_curtain",
+          "data": {}
+        }
+      ],
+      "mode": "single"
+    }
+  },
+  {
+    "input_text": "每天22点关闭卧室窗帘",
+    "gold_dsl": {
+      "rule_name": "bedroom_time_rule",
+      "trigger": {
+        "type": "time",
+        "at": "22:00:00"
+      },
+      "conditions": [],
+      "actions": [
+        {
+          "service": "cover.close_cover",
+          "entity": "cover.bedroom_curtain",
+          "data": {}
+        }
+      ],
+      "mode": "single"
+    }
+  },
+  {
+    "input_text": "玄关有人时开灯",
+    "gold_dsl": {
+      "rule_name": "entryway_state_rule",
+      "trigger": {
+        "type": "state_change",
+        "entity": "sensor.entryway_motion",
+        "from_state": "off",
+        "to_state": "on"
+      },
+      "conditions": [],
+      "actions": [
+        {
+          "service": "light.turn_on",
+          "entity": "light.entryway_main",
+          "data": {}
+        }
+      ],
+      "mode": "single"
+    }
+  },
+  {
+    "input_text": "离开玄关后关闭灯和香薰",
+    "gold_dsl": {
+      "rule_name": "entryway_state_rule",
+      "trigger": {
+        "type": "state_change",
+        "entity": "sensor.entryway_motion",
+        "from_state": "on",
+        "to_state": "off"
+      },
+      "conditions": [],
+      "actions": [
+        {
+          "service": "light.turn_off",
+          "entity": "light.entryway_main",
+          "data": {}
+        },
+        {
+          "service": "switch.turn_off",
+          "entity": "switch.entryway_socket",
+          "data": {}
+        }
+      ],
+      "mode": "single"
+    }
+  },
+  {
+    "input_text": "卫生间湿度高时开启热水器",
+    "gold_dsl": {
+      "rule_name": "bathroom_humidity_rule",
+      "trigger": {
+        "type": "event",
+        "event_type": "humidity_alert",
+        "event_data": {
+          "entity_id": "sensor.bathroom_humidity",
+          "level": "high"
+        }
+      },
+      "conditions": [],
+      "actions": [
+        {
+          "service": "switch.turn_on",
+          "entity": "switch.bathroom_water_heater",
+          "data": {}
+        }
+      ],
+      "mode": "single"
+    }
+  },
+  {
+    "input_text": "卧室温度高时打开空调并设到24度",
+    "gold_dsl": {
+      "rule_name": "bedroom_temperature_rule",
+      "trigger": {
+        "type": "event",
+        "event_type": "temperature_alert",
+        "event_data": {
+          "entity_id": "sensor.bedroom_temperature",
+          "level": "high"
+        }
+      },
+      "conditions": [],
+      "actions": [
+        {
+          "service": "climate.turn_on",
+          "entity": "climate.bedroom_ac",
+          "data": {}
+        },
+        {
+          "service": "climate.set_temperature",
+          "entity": "climate.bedroom_ac",
+          "data": {
+            "temperature": 24
+          }
+        }
+      ],
+      "mode": "single"
+    }
+  },
+  {
+    "input_text": "每天20点打开客厅主灯和空调",
+    "gold_dsl": {
+      "rule_name": "living_room_time_rule",
+      "trigger": {
+        "type": "time",
+        "at": "20:00:00"
+      },
+      "conditions": [],
+      "actions": [
+        {
+          "service": "light.turn_on",
+          "entity": "light.living_room_main",
+          "data": {}
+        },
+        {
+          "service": "climate.turn_on",
+          "entity": "climate.living_room_ac",
+          "data": {}
+        }
+      ],
+      "mode": "single"
+    }
+  },
+  {
+    "input_text": "工作日8点半关闭卫生间热水器",
+    "gold_dsl": {
+      "rule_name": "bathroom_time_rule",
+      "trigger": {
+        "type": "time",
+        "at": "08:30:00"
+      },
+      "conditions": [
+        {
+          "type": "weekday",
+          "days": ["mon", "tue", "wed", "thu", "fri"]
+        }
+      ],
+      "actions": [
+        {
+          "service": "switch.turn_off",
+          "entity": "switch.bathroom_water_heater",
+          "data": {}
+        }
+      ],
+      "mode": "single"
+    }
+  }
+]
