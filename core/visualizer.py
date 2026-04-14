@@ -45,14 +45,16 @@ def render_text_tree(rule: RuleDSL) -> str:
 
 def render_mermaid(rule: RuleDSL) -> str:
     lines: list[str] = [
-        "flowchart TD",
+        "flowchart TB",
         f'    RULE["Rule: {_escape_mermaid(rule.rule_name)}"]',
         f'    TRIGGER["Trigger: {_escape_mermaid(_render_trigger_text(rule))}"]',
         '    CONDITIONS["Conditions"]',
         '    ACTIONS["Actions"]',
+        f'    MODE["Mode: {_escape_mermaid(rule.mode)}"]',
         "    RULE --> TRIGGER",
-        "    TRIGGER --> CONDITIONS",
-        "    CONDITIONS --> ACTIONS",
+        "    RULE --> CONDITIONS",
+        "    RULE --> ACTIONS",
+        "    RULE --> MODE",
     ]
 
     if rule.conditions:

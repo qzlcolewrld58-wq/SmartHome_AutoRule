@@ -8,7 +8,7 @@ from typing import Any
 from baseline_direct_yaml import BaselineDirectYamlGenerator
 from core.metric_utils import is_complete_yaml, parse_yaml_text, rate
 from core.pipeline import process_rule
-from mock_llm_client import MockLLMClient
+from llm_client_factory import get_experiment_llm_client
 from models.device_models import load_default_registry
 
 
@@ -63,7 +63,7 @@ def evaluate_baseline(cases: list[dict]) -> dict[str, str]:
 
 
 def evaluate_dsl(cases: list[dict]) -> dict[str, str]:
-    client = MockLLMClient()
+    client = get_experiment_llm_client()
     total = len(cases)
     complete = valid = executable = 0
 

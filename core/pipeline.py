@@ -24,7 +24,7 @@ from models.dsl_models import RuleDSL
 
 
 def process_rule(user_input: str, llm_client: Any) -> dict[str, Any]:
-    """Run the end-to-end DSL experiment pipeline for one Chinese rule description."""
+    """Run the end-to-end DSL experiment pipeline for one Chinese or English rule description."""
 
     registry = load_default_registry(PROJECT_ROOT)
     entity_list = registry.get_all_entity_ids()

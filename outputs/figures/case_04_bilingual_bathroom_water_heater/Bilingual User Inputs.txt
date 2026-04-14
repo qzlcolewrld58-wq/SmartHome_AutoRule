@@ -1,0 +1,5 @@
+﻿Chinese Input
+卫生间湿度高时打开热水器
+
+English Input
+Turn on the bathroom water heater when humidity is high.

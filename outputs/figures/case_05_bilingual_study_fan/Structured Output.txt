@@ -1,0 +1,36 @@
+﻿Repaired DSL
+{
+  "rule_name": "study_state_rule",
+  "trigger": {
+    "type": "state_change",
+    "entity": "sensor.study_motion",
+    "from_state": "off",
+    "to_state": "on"
+  },
+  "conditions": [],
+  "actions": [
+    {
+      "service": "fan.turn_on",
+      "entity": "fan.study_standing_fan",
+      "data": {}
+    }
+  ],
+  "mode": "single"
+}
+
+YAML
+alias: study_state_rule
+trigger:
+- platform: state
+  entity_id: sensor.study_motion
+  from: 'off'
+  to: 'on'
+condition: []
+action:
+- service: fan.turn_on
+  target:
+    entity_id: fan.study_standing_fan
+mode: single
+
+Explanation
+规则“study_state_rule”：当 sensor.study_motion 状态变化时触发，原状态为 off，目标状态为 on；无额外条件；执行动作：调用 fan.turn_on 操作 fan.study_standing_fan；执行方式为单次执行模式。

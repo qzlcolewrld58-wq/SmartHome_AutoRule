@@ -16,7 +16,7 @@ from core.metric_utils import (
     safe_div,
 )
 from core.pipeline import process_rule
-from mock_llm_client import MockLLMClient
+from llm_client_factory import get_experiment_llm_client
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -30,7 +30,7 @@ def load_eval_cases() -> list[dict[str, Any]]:
 
 
 def evaluate_cases(cases: list[dict[str, Any]]) -> dict[str, Any]:
-    client = MockLLMClient()
+    client = get_experiment_llm_client()
     rows: list[dict[str, Any]] = []
 
     trigger_preds: list[str | None] = []

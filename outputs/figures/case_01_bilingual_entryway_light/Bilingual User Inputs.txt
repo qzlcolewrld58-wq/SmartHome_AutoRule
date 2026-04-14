@@ -1,0 +1,5 @@
+﻿Chinese Input
+玄关有人时开灯
+
+English Input
+When someone is detected in the entryway, turn on the entryway light.

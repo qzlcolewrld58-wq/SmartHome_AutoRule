@@ -1,0 +1,36 @@
+﻿Repaired DSL
+{
+  "rule_name": "entryway_state_rule",
+  "trigger": {
+    "type": "state_change",
+    "entity": "sensor.entryway_motion",
+    "from_state": "off",
+    "to_state": "on"
+  },
+  "conditions": [],
+  "actions": [
+    {
+      "service": "light.turn_on",
+      "entity": "light.entryway_main",
+      "data": {}
+    }
+  ],
+  "mode": "single"
+}
+
+YAML
+alias: entryway_state_rule
+trigger:
+- platform: state
+  entity_id: sensor.entryway_motion
+  from: 'off'
+  to: 'on'
+condition: []
+action:
+- service: light.turn_on
+  target:
+    entity_id: light.entryway_main
+mode: single
+
+Explanation
+规则“entryway_state_rule”：当 sensor.entryway_motion 状态变化时触发，原状态为 off，目标状态为 on；无额外条件；执行动作：调用 light.turn_on 操作 light.entryway_main；执行方式为单次执行模式。

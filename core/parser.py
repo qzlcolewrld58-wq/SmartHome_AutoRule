@@ -13,10 +13,11 @@ if str(PROJECT_ROOT) not in sys.path:
 from models.device_models import load_default_registry
 
 
-DSL_PROMPT_TEMPLATE = """You are a smart-home DSL generator for Chinese user requests.
+DSL_PROMPT_TEMPLATE = """You are a smart-home automation DSL generator.
 
 Task:
-Convert the user's Chinese home automation rule description into one strict DSL JSON object.
+Convert the user's home automation rule description into one strict DSL JSON object.
+The user request may be written in Chinese or English.
 
 Output constraints:
 1. Output JSON only
@@ -70,11 +71,12 @@ Available entities:
 {entity_list_block}
 
 Completion policy:
-1. "早上" -> "07:00:00"
-2. "晚上" -> "20:00:00"
-3. "夜间" -> "22:00:00"
-4. Make service prefix match entity type
+1. "早上" or "morning" -> "07:00:00"
+2. "晚上" or "evening" -> "20:00:00"
+3. "夜间" or "night" -> "22:00:00"
+4. Make the service prefix match the selected entity type
 5. Do not invent devices outside the entity list
+6. If the request is imperative but has no explicit trigger, use a conservative event trigger
 
 Few-shot example 1:
 USER_INPUT: 每天早上7点打开客厅窗帘
@@ -97,10 +99,10 @@ JSON_OUTPUT:
 }}
 
 Few-shot example 2:
-USER_INPUT: 玄关有人时开灯
+USER_INPUT: When someone is detected in the entryway, turn on the entryway light.
 JSON_OUTPUT:
 {{
-  "rule_name": "玄关有人时开灯",
+  "rule_name": "Turn on entryway light when motion is detected",
   "trigger": {{
     "type": "state_change",
     "entity": "sensor.entryway_motion",
@@ -212,5 +214,9 @@ if __name__ == "__main__":
     registry = load_default_registry(PROJECT_ROOT)
     entity_list = registry.get_all_entity_ids()
     client = MockLLMClient()
-    result, telemetry = parse_rule_text_with_meta("每天早上7点打开客厅窗帘", entity_list, client)
+    result, telemetry = parse_rule_text_with_meta(
+        "Set the temperature of the heating system in the master bedroom to 20 degrees.",
+        entity_list,
+        client,
+    )
     print(json.dumps({"result": result, "telemetry": telemetry}, ensure_ascii=False, indent=2))

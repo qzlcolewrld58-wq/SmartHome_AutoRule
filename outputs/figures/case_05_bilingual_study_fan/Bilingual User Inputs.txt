@@ -1,0 +1,5 @@
+﻿Chinese Input
+书房有人时打开风扇
+
+English Input
+Turn on the fan when motion is detected in the study.

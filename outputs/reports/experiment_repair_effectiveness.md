@@ -6,28 +6,28 @@
 
 ## 实验设置
 
-- 注入错误样本数: 5600
+- 注入错误样本数: 14400
 - 样本来源: `data/gold_dsl.json` 的标准 DSL 样本
 - 注入错误类型: 缺失 mode、实体拼写错误、服务前缀错误、冲突动作、非法 weekday、非法时间等
 
 ## 总体结果
 
-- 修复前通过率: 28.93%
-- 修复后通过率: 100.00%
-- 自动修复增益: 71.07%
+- 修复前通过率: 30.06%
+- 修复后通过率: 99.17%
+- 自动修复增益: 69.10%
 
 ## 不同错误类型的修复成功率
 
 | Error Type | Sample Count | Repair Success Rate |
 | --- | ---: | ---: |
-| action_entity_typo | 700 | 60.29% |
-| condition_entity_typo | 700 | 100.00% |
-| conflicting_actions | 700 | 100.00% |
-| invalid_time | 700 | 100.00% |
-| invalid_weekday | 700 | 100.00% |
-| missing_mode | 700 | 0.00% |
-| service_prefix_mismatch | 700 | 89.14% |
-| trigger_entity_typo | 700 | 19.14% |
+| action_entity_typo | 1800 | 59.11% |
+| condition_entity_typo | 1800 | 98.78% |
+| conflicting_actions | 1800 | 99.17% |
+| invalid_time | 1800 | 99.17% |
+| invalid_weekday | 1800 | 99.17% |
+| missing_mode | 1800 | 0.00% |
+| service_prefix_mismatch | 1800 | 77.39% |
+| trigger_entity_typo | 1800 | 20.06% |
 
 ## 结论模板
 

@@ -1,0 +1,41 @@
+﻿Repaired DSL
+{
+  "rule_name": "living_room_time_rule",
+  "trigger": {
+    "type": "time",
+    "at": "07:00:00"
+  },
+  "conditions": [
+    {
+      "type": "time_range",
+      "start": "06:00:00",
+      "end": "09:00:00"
+    }
+  ],
+  "actions": [
+    {
+      "service": "cover.open_cover",
+      "entity": "cover.living_room_curtain",
+      "data": {}
+    }
+  ],
+  "mode": "single"
+}
+
+YAML
+alias: living_room_time_rule
+trigger:
+- platform: time
+  at: 07:00:00
+condition:
+- condition: time
+  after: 06:00:00
+  before: 09:00:00
+action:
+- service: cover.open_cover
+  target:
+    entity_id: cover.living_room_curtain
+mode: single
+
+Explanation
+规则“living_room_time_rule”：在每天 07:00:00 触发；条件为：时间处于 06:00:00 到 09:00:00 之间；执行动作：调用 cover.open_cover 操作 cover.living_room_curtain；执行方式为单次执行模式。

@@ -4,6 +4,6 @@
 
 - Sample Count: 1800
 - Exact Match: 0.00%
-- Field Accuracy: 0.5318
-- Trigger Type F1: 0.8695
-- Entity Selection Micro-F1: 0.7771
+- Field Accuracy: 0.5591
+- Trigger Type F1: 0.9569
+- Entity Selection Micro-F1: 0.8060

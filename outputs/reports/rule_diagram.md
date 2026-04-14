@@ -1,14 +1,16 @@
 ```mermaid
-flowchart TD
-    RULE["Rule: basement_time_rule"]
-    TRIGGER["Trigger: time at 20:00:00"]
+flowchart TB
+    RULE["Rule: 玄关有人时开灯"]
+    TRIGGER["Trigger: state_change sensor.entryway_motion, from=off, to=on"]
     CONDITIONS["Conditions"]
     ACTIONS["Actions"]
+    MODE["Mode: single"]
     RULE --> TRIGGER
-    TRIGGER --> CONDITIONS
-    CONDITIONS --> ACTIONS
-    C1["1. time_range 18:00:00 -> 23:59:59"]
-    CONDITIONS --> C1
-    A1["1. light.turn_on -> light.basement_main"]
+    RULE --> CONDITIONS
+    RULE --> ACTIONS
+    RULE --> MODE
+    C0["No conditions"]
+    CONDITIONS --> C0
+    A1["1. light.turn_on -> light.entryway_main"]
     ACTIONS --> A1
 ```

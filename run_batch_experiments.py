@@ -5,7 +5,7 @@ from pathlib import Path
 
 from core.metric_utils import is_complete_dsl, rate
 from core.pipeline import process_rule
-from mock_llm_client import MockLLMClient
+from llm_client_factory import get_experiment_llm_client
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -27,7 +27,7 @@ def load_test_cases() -> list[dict]:
     return cases
 
 
-def run_one_case(case: dict, llm_client: MockLLMClient) -> dict:
+def run_one_case(case: dict, llm_client: object) -> dict:
     result_record = {
         "input_text": case["input_text"],
         "category": case.get("category", "unknown"),
@@ -85,7 +85,7 @@ def print_summary(summary: dict) -> None:
 
 def main() -> None:
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
-    llm_client = MockLLMClient()
+    llm_client = get_experiment_llm_client()
     cases = load_test_cases()
     results = [run_one_case(case, llm_client) for case in cases]
     summary = summarize(results)
